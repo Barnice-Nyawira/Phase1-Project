@@ -18,12 +18,12 @@ This project contains analysis and visualization of aviation accident data from 
 
 ## Data Description
 The data is organized in a csv file that contains different columns that contain information about the accidents. They include:
-    **Weather conditions- Identify environment contributions to accidents.
-    **Phase of flight-Give safety procedures for different phases of flight.
-    **Total Injuries-For severity assessment
-    **Aircraft Model-For profiling of fleet risk.
-    **Engine Type-For mechanical reliability analysis.
-    **Number of Engines- For redundancy analysis.
+    * Weather conditions- Identify environment contributions to accidents.
+    * Phase of flight-Give safety procedures for different phases of flight.
+    * Total Injuries-For severity assessment
+    * Aircraft Model-For profiling of fleet risk.
+    * Engine Type-For mechanical reliability analysis.
+    * Number of Engines- For redundancy analysis.
 ## Visualization
 1.A Trend of Accidents over Years
 *This visualization show the trend of of accidents over years.
