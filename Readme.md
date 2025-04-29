@@ -8,13 +8,13 @@ This project contains analysis and visualization of aviation accident data from 
    **Training Organizations- Improve training programs of pilot and crew
    **Public/Passengers- Create awareness of the risks and safety measures thus boosting confidence in air travel safety.
 ### Business Question
-   ** What are the most common factors contributing to aviation accidents?
-   ** Are certain models of aircraft more prone to accidents?
-   ** What role does weather conditions play in aviation accidents?
-   ** What phases of flight are the most dangerous?
-   ** How have the accidents trends and patterns been with the advancements in technology over time?
-   ** Does human factors contribute to accidents?
-   ** What measures can be taken to reduce aviation accidents?
+   * What are the most common factors contributing to aviation accidents?
+   * Are certain models of aircraft more prone to accidents?
+   * What role does weather conditions play in aviation accidents?
+   * What phases of flight are the most dangerous?
+   * How have the accidents trends and patterns been with the advancements in technology over time?
+   * Does human factors contribute to accidents?
+   * What measures can be taken to reduce aviation accidents?
 
 ## Data Description
 The data is organized in a csv file that contains different columns that contain information about the accidents. They include:
