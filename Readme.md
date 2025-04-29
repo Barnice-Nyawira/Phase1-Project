@@ -17,7 +17,8 @@ This project contains analysis and visualization of aviation accident data from 
    * What measures can be taken to reduce aviation accidents?
 
 ## Data Description
-The data is organized in a csv file that contains different columns that contain information about the accidents. They include:
+The data is organized in a csv file that contains different columns that contain information about the accidents.
+They include:
     * Weather conditions- Identify environment contributions to accidents.
     * Phase of flight-Give safety procedures for different phases of flight.
     * Total Injuries-For severity assessment
@@ -26,12 +27,15 @@ The data is organized in a csv file that contains different columns that contain
     * Number of Engines- For redundancy analysis.
 ## Visualization
 1.A Trend of Accidents over Years
+
 *This visualization show the trend of of accidents over years.
 ![alt text](image.png)
 2.Visualization of the Phase of flight with the highest number of accidents
+
 *This visualization shows the most dangerous phase in aviation accidents.
 ![alt text](image-1.png)
 3.Correlation between fatal accidents and serious injuries
+
 It gives the correlation between fatal and serious accidents
 ![alt text](image-2.png)
 ## Tableau Interactive Dashboard Link
