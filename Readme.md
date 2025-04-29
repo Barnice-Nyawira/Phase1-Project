@@ -3,10 +3,10 @@
 This project contains analysis and visualization of aviation accident data from the year . This data was obtained from the National Transportation Safety Board(NTSB).The analysis aims at identifying different factors that contribute to the occurrence of accidents and provide insights into how these factors can be addressed to reduce the number and severity of accidents.
 ## Business Understanding
 ### Stakeholders:
-   **Airlines Operators- Reduce risks during operations and improve safety.
-   **Aircraft Manufacturers- Improve safety features and designs to reduce accidents severity.
-   **Training Organizations- Improve training programs of pilot and crew
-   **Public/Passengers- Create awareness of the risks and safety measures thus boosting confidence in air travel safety.
+   * Airlines Operators- Reduce risks during operations and improve safety.
+   * Aircraft Manufacturers- Improve safety features and designs to reduce accidents severity.
+   * Training Organizations- Improve training programs of pilot and crew
+   * Public/Passengers- Create awareness of the risks and safety measures thus boosting confidence in air travel safety.
 ### Business Question
    * What are the most common factors contributing to aviation accidents?
    * Are certain models of aircraft more prone to accidents?
