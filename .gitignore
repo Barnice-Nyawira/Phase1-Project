@@ -1,0 +1,11 @@
+### Aviation Accident Analysis .gitignore
+# Ignore data files and directories
+/data/
+/AviationData.csv
+/cleaned_aviation_data.csv
+
+#Ignore Jupyter notebook
+/Project.ipynb
+
+#Ignore image files
+*.png
